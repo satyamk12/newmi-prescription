@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+.newmi-section{
+    background-color: #FFB6C1;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width:767px) {
+    .newmi-section{
+        background-color: #FFB6C1;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+  }
+
+
+
+.newmi-h1{
+    font-family: 'Satisfy', cursive;
+    font-size: 70px;
+    color: #C71585;
+}
+
+@media (max-width:767px) {
+    .newmi-h1{
+        font-family: 'Satisfy', cursive;
+        font-size: 30px;
+        color: #C71585;
+    }
+  }
+
+.newmi-hr-one{
+    border: 2px solid #FF1493;
+    margin-top: -17px;
+}
+
+@media (max-width:767px) {
+    .newmi-hr-one{
+        border: 2px solid #FF1493;
+        margin-top: -10px;
+    }
+  }
+
+
+.v1 {
+    border-right: 2px solid grey;
+    height: 150px;
+    /* font-size: 100px;
+    color: gray; */
+  }
+
+  @media (max-width:767px) {
+    .v1 {
+       display: none;
+      }
+    
+  }
+
+
+.newmi-text{
+    margin-top: 17px;
+}
+
+@media (max-width:767px) {
+    .newmi-text{
+        margin-top: 17px;
+    }
+  }
+
+
+.newmi-text-color{
+    color: #C71585;
+}
+
+.newmi-hr-two{
+    border: 2px solid #FF1493;
+}
+
+  .v2 {
+    border-right: 2px solid grey;
+    height: 150px;
+    /* font-size: 100px;
+    color: gray; */
+  }
+
+  @media (max-width:767px) {
+    .v2 {
+        display: none;
+      }
+  }
+
+
+.newmi-image-one{
+    height: 100px;
+}
+
+.newmi-image-two{
+    height: 150px;
+    width: 300px;
+}
+
+.newmi-presciption-area{
+    height: 700px;
+    width: 100%;
+}
+
+.newmi-left{
+    margin-left: 384px;
+}
+
+@media (max-width:767px) {
+    .newmi-left{
+        margin-left: 0px;
+        text-align: start;
+    }
+    
+  }
+
+
+.newmi-left-h5-one{
+    margin-left: 472px;
+}
+
+@media (max-width:767px) {
+    .newmi-left-h5-one{
+        margin-left: 0px;
+        text-align: start;
+    }
+  }
+
+
+.newmi-left-h5-two{
+    margin-left: 453px;
+}
+
+@media (max-width:767px) {
+    .newmi-left-h5-two{
+        margin-left: 0px;
+        text-align: start;
+    }
+  }
+
+
+.newmi-left-p-three{
+    margin-left: 513px;
+}
+
+@media (max-width:767px) {
+    .newmi-left-p-three{
+        margin-left: 0px;
+        text-align: start;
+    }
+  }
+
+.newmi-haeder-padding{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
